@@ -2,6 +2,6 @@
 
 - open de index.html
 
-#WSL
+## WSL
  
  - install Live Server ´ritwickdey.liveserver´ and Go live on your VS-code 
